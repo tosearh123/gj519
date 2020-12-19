@@ -1,0 +1,75 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>古井贡酒官方商城</title><link rel="stylesheet" href="../bootstrap-3.3.7-dist/css/bootstrap.min.css"><script src="../js/ajax.js"></script></head><body><!-- <div class="box"></div> --><div class="row"><!-- <div class="col-sm-6 col-md-4">
+		  <div class="thumbnail">
+			<img src="..." alt="...">
+			<div class="caption">
+			  <h3>Thumbnail label</h3>
+			  <p>...</p>
+			  <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+			</div>
+		  </div>
+		</div> --></div><script>let row = document.querySelector(".row");
+        //获取本地json文件数据
+        window.onload = function() {
+                var url = "http://lzc/gj519s/json/data4.json"
+                var request = new XMLHttpRequest();
+                request.open("get", url); /*设置请求方法与路径*/
+                request.send(null); /*不发送数据到服务器*/
+                request.onload = function() { /*XHR对象获取到返回信息后执行*/
+                    if (request.status == 200) { /*返回状态为200，即为数据获取成功*/
+                        var json = JSON.parse(request.responseText);
+                        // for (var i = 0; i < json.length; i++) {
+                        //     console.log(json[i].name);
+                        // }
+                        console.log(json.recordList[0].itemMediaRespList[0].mediaUrl);
+                        renderHtml(json.recordList)
+                        inData(json.recordList)
+                    }
+                }
+            }
+            //1283278509195792384
+
+        // 通过获取的数据遍历--pAjax传给php
+        function inData(arr) {
+            console.log(arr);
+            arr.forEach(item => {
+                pAjax({
+                    url: "../api/inData.php",
+                    data: {
+                        pic: item.itemMediaRespList[0].mediaUrl,
+                        name: item.spuName,
+                        say: item.spuDesc,
+                        price: item.minSalePrice,
+                        buyCount: item.salesCount,
+                        cateId: item.cateId
+                    }
+                }).then(res => {
+                    console.log(res);
+                })
+            })
+        }
+
+        function renderHtml(data) {
+            console.log(data);
+            let str = '';
+
+            data.forEach((item, index) => {
+                console.log(item.spu);
+                str += `
+            <div class="col-sm-6 col-md-3">
+        	  <div class="thumbnail">
+        		<img src="${item.itemMediaRespList[0].mediaUrl}" alt="">
+        		<div class="caption">
+        		  <h6>${item.spuName}</h6>
+                  <p>${item.spuDesc}</p>
+                  <p>${item.cateId}</p>
+
+        		 <span>￥${item.minSalePrice} </span><i>已售${item.salesCount}</i>
+        		</div>
+        	  </div>
+        	</div>
+           `
+            })
+
+            // $('.row').html(str);
+            row.innerHTML = str;
+        }</script></body></html>

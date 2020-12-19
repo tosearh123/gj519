@@ -1,0 +1,3730 @@
+{
+    "code": 200,
+    "engDesc": "success",
+    "chnDesc": "操作成功",
+    "detail": "CommodityController#querySpuPage操作成功",
+    "content": null,
+    "recordList": [
+        {
+            "spuSysId": "3061",
+            "spuId": "1339022753935790080",
+            "spuName": "古井贡酒原酒特级15   65度5000ml*1坛",
+            "spuDesc": "",
+            "spuPicUrl": "https://cdn.gj519.com/LTE5IM-1280ba9e81b364ac.jpg",
+            "spuStatus": 1,
+            "cateId": "1283231799375433728",
+            "brandId": null,
+            "model": null,
+            "unit": "其他",
+            "createTime": 1608082877000,
+            "updateTime": 1608109080000,
+            "saleShopId": 428,
+            "shareDesc": "我发现了一个很棒的东西,快来看看",
+            "fareType": 1,
+            "fareTemplateId": "-1",
+            "minBuyNum": null,
+            "maxBuyNum": null,
+            "tagValue": null,
+            "isOnsale": 1,
+            "virtualSales": "1",
+            "isCustommade": 0,
+            "custommadeDTO": null,
+            "onsaleStartTime": null,
+            "onsaleEndTime": null,
+            "allocatedType": 1,
+            "allocatedTypeName": null,
+            "skuInfoDTOS": null,
+            "minSalePrice": 59999,
+            "maxSalePrice": 59999,
+            "minLinePrice": 59999,
+            "maxLinePrice": 59999,
+            "minVipPrice": 59999,
+            "maxVipPrice": 59999,
+            "minSaleCommission": null,
+            "maxSaleCommission": null,
+            "minRecommendCommission": null,
+            "maxRecommendCommission": null,
+            "minSaleCommissionScale": null,
+            "maxSaleCommissionScale": null,
+            "minRecommendCommissionScale": null,
+            "maxRecommendCommissionScale": null,
+            "salesCount": "0",
+            "fareTemplateName": null,
+            "cateInfo": {
+                "firstCateId": "1283231799375433728",
+                "firstCateName": "古井贡酒",
+                "secondCateId": null,
+                "secondCateName": null,
+                "cateId": null,
+                "cateName": null,
+                "cateIds": [
+                    "1283231799375433728"
+                ]
+            },
+            "specInfos": null,
+            "itemMediaRespList": [
+                {
+                    "id": "14300",
+                    "spuId": "1339022753935790080",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/LTE5IM-1280ba9e81b364ac.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14301",
+                    "spuId": "1339022753935790080",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/04VsT7-主图3.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14302",
+                    "spuId": "1339022753935790080",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/M1HXQR-主图2.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14303",
+                    "spuId": "1339022753935790080",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/9mOLto-主图4.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14304",
+                    "spuId": "1339022753935790080",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/QD3MeX-65度5000ml特级原酒_01.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14305",
+                    "spuId": "1339022753935790080",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/1vQfvk-65度5000ml特级原酒_02.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14306",
+                    "spuId": "1339022753935790080",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/RT6uvB-65度5000ml特级原酒_03.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14307",
+                    "spuId": "1339022753935790080",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/0HeVFA-65度5000ml特级原酒_04.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14308",
+                    "spuId": "1339022753935790080",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/EUqDqh-65度5000ml特级原酒_05.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14309",
+                    "spuId": "1339022753935790080",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/WL79UA-65度5000ml特级原酒_06.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14310",
+                    "spuId": "1339022753935790080",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/N8NA5T-65度5000ml特级原酒_07.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14311",
+                    "spuId": "1339022753935790080",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/6rtkzn-65度5000ml特级原酒_08.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14312",
+                    "spuId": "1339022753935790080",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/kJWEPs-65度5000ml特级原酒_09.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                }
+            ],
+            "skuInfoList": [
+                {
+                    "skuSysId": "5955",
+                    "skuId": "1339022754061619200",
+                    "skuName": "65°5L*1特级15年原酒",
+                    "spuId": "1339022753935790080",
+                    "skuStatus": 1,
+                    "skuPicUrl": "https://cdn.gj519.com/TCXHv8-1280ba9e81b364ac.jpg",
+                    "salePrice": 59999,
+                    "linePrice": 59999,
+                    "vipPrice": 59999,
+                    "barcode": null,
+                    "entCode": null,
+                    "isOnsale": 1,
+                    "createTime": 1608082877000,
+                    "updateTime": 1608109080000,
+                    "salePoint": null,
+                    "actualSales": "0",
+                    "isMultiSpec": null,
+                    "isRelated": true,
+                    "innerSkuId": "1000759",
+                    "shareDesc": null,
+                    "tagValue": null,
+                    "specInfos": [
+                        {
+                            "id": "215275",
+                            "spuId": "1339022753935790080",
+                            "skuId": "1339022754061619200",
+                            "specKey": "15",
+                            "specName": "瓶数",
+                            "specValue": "1坛"
+                        }
+                    ],
+                    "itemMediaRespList": [
+                        {
+                            "id": "20764",
+                            "spuId": null,
+                            "skuId": "1000759",
+                            "mediaUrl": "https://file.gujing.com/group2/M00/00/0D/CpYSF12F53-AD8tiAAOpW9IDRdE608.jpg",
+                            "mediaDesc": null,
+                            "mediaType": 2,
+                            "isMaster": true,
+                            "fileType": null,
+                            "seq": null
+                        }
+                    ],
+                    "brandInfo": {
+                        "brandId": "2",
+                        "brandName": "古井贡",
+                        "brandNameEn": null,
+                        "brandCode": "1282887059681447936",
+                        "brandLogo": null
+                    },
+                    "unit": "瓶",
+                    "brandName": "古井贡",
+                    "attrInfo": [
+                        {
+                            "id": "49485",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16249",
+                            "attrName": "版本号",
+                            "attrNameEn": "versionNo",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49485",
+                                    "attrOptId": null,
+                                    "attrVal": "23.7"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49472",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16234",
+                            "attrName": "容量单位",
+                            "attrNameEn": "prodCopUnit",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49472",
+                                    "attrOptId": null,
+                                    "attrVal": "ML"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49488",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16252",
+                            "attrName": "净含量",
+                            "attrNameEn": "prodNet",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49488",
+                                    "attrOptId": null,
+                                    "attrVal": "5000.000"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49475",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16237",
+                            "attrName": "产品销售类型",
+                            "attrNameEn": "prodSalesType",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49475",
+                                    "attrOptId": null,
+                                    "attrVal": "线下"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49478",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16242",
+                            "attrName": "商品瓶/盒长宽高尺寸",
+                            "attrNameEn": "itemSize",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49478",
+                                    "attrOptId": null,
+                                    "attrVal": "230*230*275"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49481",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16245",
+                            "attrName": "商品箱体积",
+                            "attrNameEn": "itemBoxVolume",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49481",
+                                    "attrOptId": null,
+                                    "attrVal": "36.518"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49484",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16248",
+                            "attrName": "二维码活动产品",
+                            "attrNameEn": "qrActiName",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49484",
+                                    "attrOptId": null,
+                                    "attrVal": "否"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49487",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16251",
+                            "attrName": "产品度数",
+                            "attrNameEn": "prodDegree",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49487",
+                                    "attrOptId": null,
+                                    "attrVal": "65"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49474",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16236",
+                            "attrName": "产品标准",
+                            "attrNameEn": "prodStan",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49474",
+                                    "attrOptId": null,
+                                    "attrVal": "Q/BGJ 0001S"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49490",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16254",
+                            "attrName": "盒/瓶重量",
+                            "attrNameEn": "itemWeight",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49490",
+                                    "attrOptId": null,
+                                    "attrVal": "11.010"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49477",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16239",
+                            "attrName": "基本计量单位",
+                            "attrNameEn": "prodSalesUnit",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49477",
+                                    "attrOptId": null,
+                                    "attrVal": "瓶"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49480",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16244",
+                            "attrName": "商品瓶/盒体积",
+                            "attrNameEn": "itemVolume",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49480",
+                                    "attrOptId": null,
+                                    "attrVal": "14.548"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49483",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16247",
+                            "attrName": "重量单位",
+                            "attrNameEn": "itemTranWeightUnit",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49483",
+                                    "attrOptId": null,
+                                    "attrVal": "KG"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49486",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16250",
+                            "attrName": "是否VIP",
+                            "attrNameEn": "whetherVip",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49486",
+                                    "attrOptId": null,
+                                    "attrVal": "否"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49473",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16235",
+                            "attrName": "产品规格",
+                            "attrNameEn": "prodSpec",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49473",
+                                    "attrOptId": null,
+                                    "attrVal": "1*1"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49489",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16253",
+                            "attrName": "毛重",
+                            "attrNameEn": "roughWeight",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49489",
+                                    "attrOptId": null,
+                                    "attrVal": "11.010"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49476",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16238",
+                            "attrName": "价格含运费",
+                            "attrNameEn": "prodFreeShip",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49476",
+                                    "attrOptId": null,
+                                    "attrVal": "是"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49479",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16243",
+                            "attrName": "商品箱长宽高尺寸",
+                            "attrNameEn": "itemBoxSize",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49479",
+                                    "attrOptId": null,
+                                    "attrVal": "310*310*380"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49482",
+                            "spuSysId": "5382",
+                            "skuSysId": "9382",
+                            "attrId": "16246",
+                            "attrName": "运输计重",
+                            "attrNameEn": "itemTranWeight",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "104001005",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49482",
+                                    "attrOptId": null,
+                                    "attrVal": "24.000"
+                                }
+                            ]
+                        }
+                    ],
+                    "saleShopId": 428,
+                    "supplierShopId": 426,
+                    "isCustommade": null,
+                    "custommadeDTO": null,
+                    "onsaleStartTime": null,
+                    "onsaleEndTime": null,
+                    "allocatedType": null,
+                    "allocatedTypeName": null,
+                    "cateInfo": null,
+                    "saleCommission": null,
+                    "recommendCommission": null,
+                    "saleCommissionScale": null,
+                    "recommendCommissionScale": null,
+                    "skuStatusName": null,
+                    "isOnsaleName": null,
+                    "innerSkuName": "65°5L*1特级15年原酒",
+                    "innerSkuPicUrl": "https://file.gujing.com/group2/M00/00/0D/CpYSF12F53-AD8tiAAOpW9IDRdE608.jpg",
+                    "cateId": "1283231799375433728",
+                    "spuName": null,
+                    "fareType": null,
+                    "minBuyNum": 1,
+                    "maxBuyNum": 9999,
+                    "baseBuyNum": 1,
+                    "isCombine": null,
+                    "combineSkuRespList": null,
+                    "itemShortName": "65°5L*1特级15年原酒",
+                    "shopName": null,
+                    "shopLogo": null,
+                    "bargainDefList": null,
+                    "cardList": null,
+                    "grouponInfoList": null,
+                    "promotionList": null,
+                    "packetOffList": null,
+                    "promotionInfoList": null,
+                    "fareTemplate": null,
+                    "vipMemberPrice": null,
+                    "vipMemberInfo": null
+                }
+            ]
+        },
+        {
+            "spuSysId": "3015",
+            "spuId": "1285131784840941568",
+            "spuName": "古井贡酒经典50度500ml*6瓶",
+            "spuDesc": "浓香型白酒整箱装 纯粮食口粮酒",
+            "spuPicUrl": "https://cdn.gj519.com/slhrkq-经典.jpg",
+            "spuStatus": 1,
+            "cateId": "1283305595184746496",
+            "brandId": null,
+            "model": null,
+            "unit": "其他",
+            "createTime": 1595234269000,
+            "updateTime": 1608117593000,
+            "saleShopId": 428,
+            "shareDesc": "我发现了一个很棒的东西,快来看看",
+            "fareType": 1,
+            "fareTemplateId": "-1",
+            "minBuyNum": null,
+            "maxBuyNum": null,
+            "tagValue": null,
+            "isOnsale": 1,
+            "virtualSales": "1",
+            "isCustommade": 0,
+            "custommadeDTO": null,
+            "onsaleStartTime": null,
+            "onsaleEndTime": null,
+            "allocatedType": 1,
+            "allocatedTypeName": null,
+            "skuInfoDTOS": null,
+            "minSalePrice": 398,
+            "maxSalePrice": 398,
+            "minLinePrice": 398,
+            "maxLinePrice": 398,
+            "minVipPrice": 398,
+            "maxVipPrice": 398,
+            "minSaleCommission": null,
+            "maxSaleCommission": null,
+            "minRecommendCommission": null,
+            "maxRecommendCommission": null,
+            "minSaleCommissionScale": null,
+            "maxSaleCommissionScale": null,
+            "minRecommendCommissionScale": null,
+            "maxRecommendCommissionScale": null,
+            "salesCount": "72",
+            "fareTemplateName": null,
+            "cateInfo": {
+                "firstCateId": "1283231799375433728",
+                "firstCateName": "古井贡酒",
+                "secondCateId": "1283279894268219392",
+                "secondCateName": "贡酒口粮",
+                "cateId": "1283305595184746496",
+                "cateName": "经典",
+                "cateIds": [
+                    "1283231799375433728",
+                    "1283279894268219392",
+                    "1283305595184746496"
+                ]
+            },
+            "specInfos": null,
+            "itemMediaRespList": [
+                {
+                    "id": "13465",
+                    "spuId": "1285131784840941568",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/slhrkq-经典.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13466",
+                    "spuId": "1285131784840941568",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/bjTJUL-经典50度主图3.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13467",
+                    "spuId": "1285131784840941568",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/WtYwkG-经典50度主图4.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13468",
+                    "spuId": "1285131784840941568",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/5nnlZE-经典50度主图111.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13469",
+                    "spuId": "1285131784840941568",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/UfwOE9-经典50度_01.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13470",
+                    "spuId": "1285131784840941568",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/fH9CC8-经典50度_02.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13471",
+                    "spuId": "1285131784840941568",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/5OqmMd-经典50度_03.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                }
+            ],
+            "skuInfoList": [
+                {
+                    "skuSysId": "5881",
+                    "skuId": "1285131784840941569",
+                    "skuName": "50°500ml*6古井贡酒经典-2.0",
+                    "spuId": "1285131784840941568",
+                    "skuStatus": 1,
+                    "skuPicUrl": "https://cdn.gj519.com/bVcpL6-1vpfZk-经典50度主图11.jpg",
+                    "salePrice": 398,
+                    "linePrice": 398,
+                    "vipPrice": 398,
+                    "barcode": null,
+                    "entCode": null,
+                    "isOnsale": 1,
+                    "createTime": 1595234268000,
+                    "updateTime": 1608117593000,
+                    "salePoint": null,
+                    "actualSales": "72",
+                    "isMultiSpec": null,
+                    "isRelated": true,
+                    "innerSkuId": "100038906",
+                    "shareDesc": null,
+                    "tagValue": null,
+                    "specInfos": [
+                        {
+                            "id": "215221",
+                            "spuId": "1285131784840941568",
+                            "skuId": "1285131784840941569",
+                            "specKey": "13",
+                            "specName": "酒精度",
+                            "specValue": "50°"
+                        },
+                        {
+                            "id": "215220",
+                            "spuId": "1285131784840941568",
+                            "skuId": "1285131784840941569",
+                            "specKey": "5",
+                            "specName": "净含量",
+                            "specValue": "500ml"
+                        }
+                    ],
+                    "itemMediaRespList": [],
+                    "brandInfo": {
+                        "brandId": "2",
+                        "brandName": "古井贡",
+                        "brandNameEn": null,
+                        "brandCode": "1282887059681447936",
+                        "brandLogo": null
+                    },
+                    "unit": "1",
+                    "brandName": "古井贡",
+                    "attrInfo": [],
+                    "saleShopId": 428,
+                    "supplierShopId": 426,
+                    "isCustommade": null,
+                    "custommadeDTO": null,
+                    "onsaleStartTime": null,
+                    "onsaleEndTime": null,
+                    "allocatedType": null,
+                    "allocatedTypeName": null,
+                    "cateInfo": null,
+                    "saleCommission": null,
+                    "recommendCommission": null,
+                    "saleCommissionScale": null,
+                    "recommendCommissionScale": null,
+                    "skuStatusName": null,
+                    "isOnsaleName": null,
+                    "innerSkuName": "50°500ml*6古井贡酒经典-2.0",
+                    "innerSkuPicUrl": null,
+                    "cateId": "1283305595184746496",
+                    "spuName": null,
+                    "fareType": null,
+                    "minBuyNum": 1,
+                    "maxBuyNum": 9999,
+                    "baseBuyNum": 1,
+                    "isCombine": null,
+                    "combineSkuRespList": null,
+                    "itemShortName": "50°500ml*6古井贡酒经典-2.0",
+                    "shopName": null,
+                    "shopLogo": null,
+                    "bargainDefList": null,
+                    "cardList": null,
+                    "grouponInfoList": null,
+                    "promotionList": null,
+                    "packetOffList": null,
+                    "promotionInfoList": null,
+                    "fareTemplate": null,
+                    "vipMemberPrice": null,
+                    "vipMemberInfo": null
+                }
+            ]
+        },
+        {
+            "spuSysId": "3010",
+            "spuId": "1284761369157177344",
+            "spuName": "古井贡酒30窖龄酒50°500ml",
+            "spuDesc": "酒厂自营",
+            "spuPicUrl": "https://cdn.gj519.com/QvF7RL-【箱装】30年窖龄.jpg",
+            "spuStatus": 1,
+            "cateId": "1283302313737457664",
+            "brandId": null,
+            "model": null,
+            "unit": "其他",
+            "createTime": 1595145955000,
+            "updateTime": 1608119368000,
+            "saleShopId": 428,
+            "shareDesc": "我发现了一个很棒的东西,快来看看",
+            "fareType": 1,
+            "fareTemplateId": "-1",
+            "minBuyNum": null,
+            "maxBuyNum": null,
+            "tagValue": null,
+            "isOnsale": 1,
+            "virtualSales": "1",
+            "isCustommade": 0,
+            "custommadeDTO": null,
+            "onsaleStartTime": null,
+            "onsaleEndTime": null,
+            "allocatedType": 1,
+            "allocatedTypeName": null,
+            "skuInfoDTOS": null,
+            "minSalePrice": 624,
+            "maxSalePrice": 624,
+            "minLinePrice": 624,
+            "maxLinePrice": 624,
+            "minVipPrice": 624,
+            "maxVipPrice": 624,
+            "minSaleCommission": null,
+            "maxSaleCommission": null,
+            "minRecommendCommission": null,
+            "maxRecommendCommission": null,
+            "minSaleCommissionScale": null,
+            "maxSaleCommissionScale": null,
+            "minRecommendCommissionScale": null,
+            "maxRecommendCommissionScale": null,
+            "salesCount": "142",
+            "fareTemplateName": null,
+            "cateInfo": {
+                "firstCateId": "1283199122890952704",
+                "firstCateName": "古井电商品",
+                "secondCateId": "1283277465741037568",
+                "secondCateName": "窖龄酒",
+                "cateId": "1283302313737457664",
+                "cateName": "30窖龄",
+                "cateIds": [
+                    "1283199122890952704",
+                    "1283277465741037568",
+                    "1283302313737457664"
+                ]
+            },
+            "specInfos": null,
+            "itemMediaRespList": [
+                {
+                    "id": "12026",
+                    "spuId": "1284761369157177344",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/QvF7RL-【箱装】30年窖龄.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12027",
+                    "spuId": "1284761369157177344",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/i4spT3-主图1.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12028",
+                    "spuId": "1284761369157177344",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/6N3WnR-主图2.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12029",
+                    "spuId": "1284761369157177344",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/4KSee6-主图3.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12030",
+                    "spuId": "1284761369157177344",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/OPJqpZ-主图4.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12031",
+                    "spuId": "1284761369157177344",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/nsj3Iw-30窖龄_50_500_01.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12032",
+                    "spuId": "1284761369157177344",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/WPvKI6-30窖龄_50_500_02.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12033",
+                    "spuId": "1284761369157177344",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/MjXvqU-30窖龄_50_500_03.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12034",
+                    "spuId": "1284761369157177344",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/FFfdeL-30窖龄_50_500_04.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12035",
+                    "spuId": "1284761369157177344",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/6fKrrV-30窖龄_50_500_05.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12036",
+                    "spuId": "1284761369157177344",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/43OQ0i-30窖龄_50_500_06.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12037",
+                    "spuId": "1284761369157177344",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/LwewEI-30窖龄_50_500_07.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12038",
+                    "spuId": "1284761369157177344",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/WHGpoR-30窖龄_50_500_08.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                }
+            ],
+            "skuInfoList": [
+                {
+                    "skuSysId": "5899",
+                    "skuId": "1285156407309635585",
+                    "skuName": "50°500ml*6古井贡酒30年窖龄酒-电商",
+                    "spuId": "1284761369157177344",
+                    "skuStatus": 1,
+                    "skuPicUrl": "https://cdn.gj519.com/LOospp-TB23A85k80kpuFjSsziXXa.jpg",
+                    "salePrice": 624,
+                    "linePrice": 624,
+                    "vipPrice": 624,
+                    "barcode": null,
+                    "entCode": null,
+                    "isOnsale": 1,
+                    "createTime": 1595240139000,
+                    "updateTime": 1608119368000,
+                    "salePoint": null,
+                    "actualSales": "132",
+                    "isMultiSpec": null,
+                    "isRelated": true,
+                    "innerSkuId": "100048206",
+                    "shareDesc": null,
+                    "tagValue": null,
+                    "specInfos": [
+                        {
+                            "id": "215068",
+                            "spuId": "1284761369157177344",
+                            "skuId": "1285156407309635585",
+                            "specKey": "13",
+                            "specName": "酒精度",
+                            "specValue": "50°"
+                        },
+                        {
+                            "id": "215069",
+                            "spuId": "1284761369157177344",
+                            "skuId": "1285156407309635585",
+                            "specKey": "15",
+                            "specName": "瓶数",
+                            "specValue": "6瓶"
+                        },
+                        {
+                            "id": "215067",
+                            "spuId": "1284761369157177344",
+                            "skuId": "1285156407309635585",
+                            "specKey": "5",
+                            "specName": "净含量",
+                            "specValue": "500ml"
+                        }
+                    ],
+                    "itemMediaRespList": [
+                        {
+                            "id": "23261",
+                            "spuId": null,
+                            "skuId": "100048206",
+                            "mediaUrl": "https://cdn.gj519.com/oO5RpJ-【箱装】30年窖龄.jpg",
+                            "mediaDesc": null,
+                            "mediaType": 2,
+                            "isMaster": true,
+                            "fileType": null,
+                            "seq": null
+                        }
+                    ],
+                    "brandInfo": {
+                        "brandId": "2",
+                        "brandName": "古井贡",
+                        "brandNameEn": null,
+                        "brandCode": "1282887059681447936",
+                        "brandLogo": null
+                    },
+                    "unit": "1",
+                    "brandName": "古井贡",
+                    "attrInfo": [],
+                    "saleShopId": 428,
+                    "supplierShopId": 426,
+                    "isCustommade": null,
+                    "custommadeDTO": null,
+                    "onsaleStartTime": null,
+                    "onsaleEndTime": null,
+                    "allocatedType": null,
+                    "allocatedTypeName": null,
+                    "cateInfo": null,
+                    "saleCommission": null,
+                    "recommendCommission": null,
+                    "saleCommissionScale": null,
+                    "recommendCommissionScale": null,
+                    "skuStatusName": null,
+                    "isOnsaleName": null,
+                    "innerSkuName": "50°500ml*6古井贡酒30年窖龄酒-电商",
+                    "innerSkuPicUrl": "https://cdn.gj519.com/oO5RpJ-【箱装】30年窖龄.jpg",
+                    "cateId": "1283302313737457664",
+                    "spuName": null,
+                    "fareType": null,
+                    "minBuyNum": 1,
+                    "maxBuyNum": 9999,
+                    "baseBuyNum": 1,
+                    "isCombine": null,
+                    "combineSkuRespList": null,
+                    "itemShortName": "50°500ml*6古井贡酒30年窖龄酒-电商",
+                    "shopName": null,
+                    "shopLogo": null,
+                    "bargainDefList": null,
+                    "cardList": null,
+                    "grouponInfoList": null,
+                    "promotionList": null,
+                    "packetOffList": null,
+                    "promotionInfoList": null,
+                    "fareTemplate": null,
+                    "vipMemberPrice": null,
+                    "vipMemberInfo": null
+                }
+            ]
+        },
+        {
+            "spuSysId": "3057",
+            "spuId": "1322521248760205312",
+            "spuName": "古井贡酒第六代 50度500ml*1瓶",
+            "spuDesc": "浓香型白酒单瓶装",
+            "spuPicUrl": "https://cdn.gj519.com/iRtekf-1.jpg",
+            "spuStatus": 1,
+            "cateId": "1285150545782378496",
+            "brandId": null,
+            "model": null,
+            "unit": "其他",
+            "createTime": 1604148612000,
+            "updateTime": 1608177419000,
+            "saleShopId": 428,
+            "shareDesc": "我发现了一个很棒的东西,快来看看",
+            "fareType": 1,
+            "fareTemplateId": "-1",
+            "minBuyNum": null,
+            "maxBuyNum": null,
+            "tagValue": null,
+            "isOnsale": 1,
+            "virtualSales": "456",
+            "isCustommade": 0,
+            "custommadeDTO": null,
+            "onsaleStartTime": null,
+            "onsaleEndTime": null,
+            "allocatedType": 1,
+            "allocatedTypeName": null,
+            "skuInfoDTOS": null,
+            "minSalePrice": 139,
+            "maxSalePrice": 139,
+            "minLinePrice": 199,
+            "maxLinePrice": 199,
+            "minVipPrice": 139,
+            "maxVipPrice": 139,
+            "minSaleCommission": null,
+            "maxSaleCommission": null,
+            "minRecommendCommission": null,
+            "maxRecommendCommission": null,
+            "minSaleCommissionScale": null,
+            "maxSaleCommissionScale": null,
+            "minRecommendCommissionScale": null,
+            "maxRecommendCommissionScale": null,
+            "salesCount": "56",
+            "fareTemplateName": null,
+            "cateInfo": {
+                "firstCateId": "1283231799375433728",
+                "firstCateName": "古井贡酒",
+                "secondCateId": "1283279850492268544",
+                "secondCateName": "贡酒其他",
+                "cateId": "1285150545782378496",
+                "cateName": "第六代",
+                "cateIds": [
+                    "1283231799375433728",
+                    "1283279850492268544",
+                    "1285150545782378496"
+                ]
+            },
+            "specInfos": null,
+            "itemMediaRespList": [
+                {
+                    "id": "13550",
+                    "spuId": "1322521248760205312",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/iRtekf-1.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13551",
+                    "spuId": "1322521248760205312",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/thVyhL-双拼礼袋.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13552",
+                    "spuId": "1322521248760205312",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/ROEB77-箱装主图 wu logo.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13553",
+                    "spuId": "1322521248760205312",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/lJ4bRo-6代古井贡_50_500ml_01.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13554",
+                    "spuId": "1322521248760205312",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/Fimsw9-6代古井贡_50_500ml_02.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13555",
+                    "spuId": "1322521248760205312",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/VokcMd-6代古井贡_50_500ml_03.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13556",
+                    "spuId": "1322521248760205312",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/5HRrGL-6代古井贡_50_500ml_04.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13557",
+                    "spuId": "1322521248760205312",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/OFIg7H-6代古井贡_50_500ml_05.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13558",
+                    "spuId": "1322521248760205312",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/Dmq0RT-6代古井贡_50_500ml_06.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13559",
+                    "spuId": "1322521248760205312",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/CE2uFi-6代古井贡_50_500ml_07.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13560",
+                    "spuId": "1322521248760205312",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/GbfFYc-6代古井贡_50_500ml_08.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13561",
+                    "spuId": "1322521248760205312",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/5nYHaK-6代古井贡_50_500ml_09.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13562",
+                    "spuId": "1322521248760205312",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/38Pu6x-6代古井贡_50_500ml_10.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13563",
+                    "spuId": "1322521248760205312",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/9QKOMh-6代古井贡_50_500ml_11.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                }
+            ],
+            "skuInfoList": [
+                {
+                    "skuSysId": "5950",
+                    "skuId": "1322521248764399616",
+                    "skuName": "50°500ml*6古井贡酒第六代",
+                    "spuId": "1322521248760205312",
+                    "skuStatus": 1,
+                    "skuPicUrl": "https://cdn.gj519.com/NrlzLr-1.jpg",
+                    "salePrice": 139,
+                    "linePrice": 199,
+                    "vipPrice": 139,
+                    "barcode": null,
+                    "entCode": null,
+                    "isOnsale": 1,
+                    "createTime": 1604148611000,
+                    "updateTime": 1608177419000,
+                    "salePoint": null,
+                    "actualSales": "56",
+                    "isMultiSpec": null,
+                    "isRelated": true,
+                    "innerSkuId": "1001250",
+                    "shareDesc": null,
+                    "tagValue": null,
+                    "specInfos": [
+                        {
+                            "id": "215231",
+                            "spuId": "1322521248760205312",
+                            "skuId": "1322521248764399616",
+                            "specKey": "15",
+                            "specName": "瓶数",
+                            "specValue": "1瓶"
+                        }
+                    ],
+                    "itemMediaRespList": [
+                        {
+                            "id": "25545",
+                            "spuId": null,
+                            "skuId": "1001250",
+                            "mediaUrl": null,
+                            "mediaDesc": null,
+                            "mediaType": 2,
+                            "isMaster": true,
+                            "fileType": null,
+                            "seq": null
+                        }
+                    ],
+                    "brandInfo": {
+                        "brandId": "2",
+                        "brandName": "古井贡",
+                        "brandNameEn": null,
+                        "brandCode": "1282887059681447936",
+                        "brandLogo": null
+                    },
+                    "unit": "瓶",
+                    "brandName": "古井贡",
+                    "attrInfo": [
+                        {
+                            "id": "66678",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17931",
+                            "attrName": "产品度数",
+                            "attrNameEn": "prodDegree",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66678",
+                                    "attrOptId": null,
+                                    "attrVal": "50"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66665",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17915",
+                            "attrName": "产品规格",
+                            "attrNameEn": "prodSpec",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66665",
+                                    "attrOptId": null,
+                                    "attrVal": "1*6"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66681",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17934",
+                            "attrName": "盒/瓶重量",
+                            "attrNameEn": "itemWeight",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66681",
+                                    "attrOptId": null,
+                                    "attrVal": "0.000"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66668",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17918",
+                            "attrName": "价格含运费",
+                            "attrNameEn": "prodFreeShip",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66668",
+                                    "attrOptId": null,
+                                    "attrVal": "是"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66671",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17921",
+                            "attrName": "产品箱条形码",
+                            "attrNameEn": "prodBoxBarCode",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66671",
+                                    "attrOptId": null,
+                                    "attrVal": "6902018791137"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66674",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17926",
+                            "attrName": "运输计重",
+                            "attrNameEn": "itemTranWeight",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66674",
+                                    "attrOptId": null,
+                                    "attrVal": "7.280"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66677",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17929",
+                            "attrName": "版本号",
+                            "attrNameEn": "versionNo",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66677",
+                                    "attrOptId": null,
+                                    "attrVal": "1.8"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66664",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17914",
+                            "attrName": "容量单位",
+                            "attrNameEn": "prodCopUnit",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66664",
+                                    "attrOptId": null,
+                                    "attrVal": "ML"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66680",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17933",
+                            "attrName": "毛重",
+                            "attrNameEn": "roughWeight",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66680",
+                                    "attrOptId": null,
+                                    "attrVal": "7.280"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66667",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17917",
+                            "attrName": "产品销售类型",
+                            "attrNameEn": "prodSalesType",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66667",
+                                    "attrOptId": null,
+                                    "attrVal": "线下"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66670",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17920",
+                            "attrName": "产品瓶/盒条形码",
+                            "attrNameEn": "prodBarCode",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66670",
+                                    "attrOptId": null,
+                                    "attrVal": "6902018791120"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66673",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17925",
+                            "attrName": "商品箱体积",
+                            "attrNameEn": "itemBoxVolume",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66673",
+                                    "attrOptId": null,
+                                    "attrVal": "23.033"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66676",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17928",
+                            "attrName": "二维码活动产品",
+                            "attrNameEn": "qrActiName",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66676",
+                                    "attrOptId": null,
+                                    "attrVal": "否"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66679",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17932",
+                            "attrName": "净含量",
+                            "attrNameEn": "prodNet",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66679",
+                                    "attrOptId": null,
+                                    "attrVal": "500.000"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66666",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17916",
+                            "attrName": "产品标准",
+                            "attrNameEn": "prodStan",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66666",
+                                    "attrOptId": null,
+                                    "attrVal": "GB/T 19327（优级）"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "69139",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "20229",
+                            "attrName": "商品短名",
+                            "attrNameEn": "itemShortName",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "69139",
+                                    "attrOptId": null,
+                                    "attrVal": "50度500ML古井贡酒第六代"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66669",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17919",
+                            "attrName": "基本计量单位",
+                            "attrNameEn": "prodSalesUnit",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66669",
+                                    "attrOptId": null,
+                                    "attrVal": "瓶"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66672",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17923",
+                            "attrName": "商品箱长宽高尺寸",
+                            "attrNameEn": "itemBoxSize",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66672",
+                                    "attrOptId": null,
+                                    "attrVal": "311*230*322"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66675",
+                            "spuSysId": "5432",
+                            "skuSysId": "10295",
+                            "attrId": "17927",
+                            "attrName": "重量单位",
+                            "attrNameEn": "itemTranWeightUnit",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "102005999",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "66675",
+                                    "attrOptId": null,
+                                    "attrVal": "KG"
+                                }
+                            ]
+                        }
+                    ],
+                    "saleShopId": 428,
+                    "supplierShopId": 426,
+                    "isCustommade": null,
+                    "custommadeDTO": null,
+                    "onsaleStartTime": null,
+                    "onsaleEndTime": null,
+                    "allocatedType": null,
+                    "allocatedTypeName": null,
+                    "cateInfo": null,
+                    "saleCommission": null,
+                    "recommendCommission": null,
+                    "saleCommissionScale": null,
+                    "recommendCommissionScale": null,
+                    "skuStatusName": null,
+                    "isOnsaleName": null,
+                    "innerSkuName": "50°500ml*6古井贡酒第六代",
+                    "innerSkuPicUrl": null,
+                    "cateId": "1285150545782378496",
+                    "spuName": null,
+                    "fareType": null,
+                    "minBuyNum": 1,
+                    "maxBuyNum": 9999,
+                    "baseBuyNum": 1,
+                    "isCombine": null,
+                    "combineSkuRespList": null,
+                    "itemShortName": "50度500ML古井贡酒第六代",
+                    "shopName": null,
+                    "shopLogo": null,
+                    "bargainDefList": null,
+                    "cardList": null,
+                    "grouponInfoList": null,
+                    "promotionList": null,
+                    "packetOffList": null,
+                    "promotionInfoList": null,
+                    "fareTemplate": null,
+                    "vipMemberPrice": null,
+                    "vipMemberInfo": null
+                }
+            ]
+        },
+        {
+            "spuSysId": "3012",
+            "spuId": "1285096625290743808",
+            "spuName": "古井贡酒 年份原浆献礼版（第六代）50度500ml*6（内含3个手提袋）",
+            "spuDesc": "酒厂自营 正品保证",
+            "spuPicUrl": "https://cdn.gj519.com/1YWRtb-主图1.jpg",
+            "spuStatus": 1,
+            "cateId": "1283275206382718976",
+            "brandId": null,
+            "model": null,
+            "unit": "其他",
+            "createTime": 1595225886000,
+            "updateTime": 1608183716000,
+            "saleShopId": 428,
+            "shareDesc": "我发现了一个很棒的东西,快来看看",
+            "fareType": 1,
+            "fareTemplateId": "-1",
+            "minBuyNum": 1,
+            "maxBuyNum": 999,
+            "tagValue": null,
+            "isOnsale": 1,
+            "virtualSales": "500",
+            "isCustommade": 0,
+            "custommadeDTO": null,
+            "onsaleStartTime": null,
+            "onsaleEndTime": null,
+            "allocatedType": 1,
+            "allocatedTypeName": null,
+            "skuInfoDTOS": null,
+            "minSalePrice": 816,
+            "maxSalePrice": 816,
+            "minLinePrice": 816,
+            "maxLinePrice": 816,
+            "minVipPrice": 816,
+            "maxVipPrice": 816,
+            "minSaleCommission": null,
+            "maxSaleCommission": null,
+            "minRecommendCommission": null,
+            "maxRecommendCommission": null,
+            "minSaleCommissionScale": null,
+            "maxSaleCommissionScale": null,
+            "minRecommendCommissionScale": null,
+            "maxRecommendCommissionScale": null,
+            "salesCount": "517",
+            "fareTemplateName": null,
+            "cateInfo": {
+                "firstCateId": "1283274924785537024",
+                "firstCateName": "年份原浆",
+                "secondCateId": "1283275124593790976",
+                "secondCateName": "原浆标品",
+                "cateId": "1283275206382718976",
+                "cateName": "献礼",
+                "cateIds": [
+                    "1283274924785537024",
+                    "1283275124593790976",
+                    "1283275206382718976"
+                ]
+            },
+            "specInfos": null,
+            "itemMediaRespList": [
+                {
+                    "id": "13723",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/1YWRtb-主图1.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13724",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/kYr1Dx-主图1.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13725",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/BYoxQy-主图.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13726",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/AFjaTL-献礼第六代.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13727",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/FgE2Qu-第六代献礼详情页_01.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13728",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/q6fQYI-第六代献礼详情页_02.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13729",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/xhtCvM-第六代献礼详情页_03.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13730",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/239OSo-第六代献礼详情页_04.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13731",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/PE64Kx-第六代献礼详情页_05.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13732",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/Aftj75-第六代献礼详情页_06.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13733",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/S6jBzd-第六代献礼详情页_07.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13734",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/jJcIyL-第六代献礼详情页_08.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13735",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/JvazLn-第六代献礼详情页_09.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13736",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/EuwLAS-第六代献礼详情页_10.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13737",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/OJvaPy-第六代献礼详情页_11.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13738",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/fGmHta-第六代献礼详情页_12.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13739",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/rkrt3x-第六代献礼详情页_13.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13740",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/aVTlWA-第六代献礼详情页_14.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13741",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/3mAzuv-第六代献礼详情页_15.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13742",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/24oAFW-第六代献礼详情页_16.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13743",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/KumBGr-第六代献礼详情页_17.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13744",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/q6wcxY-第六代献礼详情页_18.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13745",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/OFDVhK-第六代献礼详情页_19.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13746",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/kU6l5D-第六代献礼详情页_20.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13747",
+                    "spuId": "1285096625290743808",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/a6RoAb-第六代献礼详情页_21.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                }
+            ],
+            "skuInfoList": [
+                {
+                    "skuSysId": "5876",
+                    "skuId": "1285098977439649792",
+                    "skuName": "50度500ML原浆献礼#E*6瓶+提示卡",
+                    "spuId": "1285096625290743808",
+                    "skuStatus": 1,
+                    "skuPicUrl": "https://cdn.gj519.com/IJksGp-主图1.jpg",
+                    "salePrice": 816,
+                    "linePrice": 816,
+                    "vipPrice": 816,
+                    "barcode": null,
+                    "entCode": null,
+                    "isOnsale": 1,
+                    "createTime": 1595226446000,
+                    "updateTime": 1608183715000,
+                    "salePoint": null,
+                    "actualSales": "517",
+                    "isMultiSpec": null,
+                    "isRelated": true,
+                    "innerSkuId": "100002406",
+                    "shareDesc": null,
+                    "tagValue": null,
+                    "specInfos": [
+                        {
+                            "id": "215243",
+                            "spuId": "1285096625290743808",
+                            "skuId": "1285098977439649792",
+                            "specKey": "13",
+                            "specName": "酒精度",
+                            "specValue": "50"
+                        },
+                        {
+                            "id": "215244",
+                            "spuId": "1285096625290743808",
+                            "skuId": "1285098977439649792",
+                            "specKey": "15",
+                            "specName": "瓶数",
+                            "specValue": "6"
+                        }
+                    ],
+                    "itemMediaRespList": [],
+                    "brandInfo": {
+                        "brandId": "10012",
+                        "brandName": "组套商品",
+                        "brandNameEn": "",
+                        "brandCode": "1286159825297870848",
+                        "brandLogo": ""
+                    },
+                    "unit": "1",
+                    "brandName": "组套商品",
+                    "attrInfo": [],
+                    "saleShopId": 428,
+                    "supplierShopId": 426,
+                    "isCustommade": null,
+                    "custommadeDTO": null,
+                    "onsaleStartTime": null,
+                    "onsaleEndTime": null,
+                    "allocatedType": null,
+                    "allocatedTypeName": null,
+                    "cateInfo": null,
+                    "saleCommission": null,
+                    "recommendCommission": null,
+                    "saleCommissionScale": null,
+                    "recommendCommissionScale": null,
+                    "skuStatusName": null,
+                    "isOnsaleName": null,
+                    "innerSkuName": "50度500ML原浆献礼#E*6瓶+提示卡",
+                    "innerSkuPicUrl": null,
+                    "cateId": "1283275206382718976",
+                    "spuName": null,
+                    "fareType": null,
+                    "minBuyNum": 1,
+                    "maxBuyNum": 9999,
+                    "baseBuyNum": 1,
+                    "isCombine": null,
+                    "combineSkuRespList": null,
+                    "itemShortName": "50度500ML原浆献礼#E*6瓶+提示卡",
+                    "shopName": null,
+                    "shopLogo": null,
+                    "bargainDefList": null,
+                    "cardList": null,
+                    "grouponInfoList": null,
+                    "promotionList": null,
+                    "packetOffList": null,
+                    "promotionInfoList": null,
+                    "fareTemplate": null,
+                    "vipMemberPrice": null,
+                    "vipMemberInfo": null
+                }
+            ]
+        },
+        {
+            "spuSysId": "3055",
+            "spuId": "1321395361025232896",
+            "spuName": "古井酒 金古井50度500ml*6瓶 纯粮光瓶粮食酒",
+            "spuDesc": "",
+            "spuPicUrl": "https://cdn.gj519.com/wJ7gGv-xdDK23-金古井-主图1.jpg",
+            "spuStatus": 1,
+            "cateId": "1283281438149578752",
+            "brandId": null,
+            "model": null,
+            "unit": "其他",
+            "createTime": 1603880179000,
+            "updateTime": 1608200585000,
+            "saleShopId": 428,
+            "shareDesc": "我发现了一个很棒的东西,快来看看",
+            "fareType": 1,
+            "fareTemplateId": "-1",
+            "minBuyNum": null,
+            "maxBuyNum": null,
+            "tagValue": "爆款;抢购;推荐",
+            "isOnsale": 1,
+            "virtualSales": "538",
+            "isCustommade": 0,
+            "custommadeDTO": null,
+            "onsaleStartTime": null,
+            "onsaleEndTime": null,
+            "allocatedType": 1,
+            "allocatedTypeName": null,
+            "skuInfoDTOS": null,
+            "minSalePrice": 300,
+            "maxSalePrice": 300,
+            "minLinePrice": 499,
+            "maxLinePrice": 499,
+            "minVipPrice": 300,
+            "maxVipPrice": 300,
+            "minSaleCommission": null,
+            "maxSaleCommission": null,
+            "minRecommendCommission": null,
+            "maxRecommendCommission": null,
+            "minSaleCommissionScale": null,
+            "maxSaleCommissionScale": null,
+            "minRecommendCommissionScale": null,
+            "maxRecommendCommissionScale": null,
+            "salesCount": "1950",
+            "fareTemplateName": null,
+            "cateInfo": {
+                "firstCateId": "1283276306049536000",
+                "firstCateName": "古井酒",
+                "secondCateId": "1283281438149578752",
+                "secondCateName": "古井酒",
+                "cateId": null,
+                "cateName": null,
+                "cateIds": [
+                    "1283276306049536000",
+                    "1283281438149578752"
+                ]
+            },
+            "specInfos": null,
+            "itemMediaRespList": [
+                {
+                    "id": "13648",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/wJ7gGv-xdDK23-金古井-主图1.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13649",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/5gWo7f-金古井-主图2.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13650",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/9V6FmG-金古井-主图3.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13651",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/eZMsvs-金古井-主图4.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13652",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/H8GySW-金古井_01.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13653",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/kt7qJk-金古井_02.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13654",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/f4pAoS-金古井_03.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13655",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/XMoUrh-金古井_04.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13656",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/yRjpgC-金古井_05.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13657",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/9FnrXH-金古井_06.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13658",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/J64TAV-金古井_07.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13659",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/XEftNI-金古井_08.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13660",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/C2dGLw-金古井_09.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13661",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/xtpF1o-金古井_10.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13662",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/c26ab4-金古井_11.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13663",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/dulKEt-金古井_12.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13664",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/KTDrLP-金古井_13.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13665",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/nEEFuq-金古井_14.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13666",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/USQ6XV-金古井_15.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13667",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/iLJLNx-金古井_16.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13668",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/kvySKr-金古井_17.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "13669",
+                    "spuId": "1321395361025232896",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/rtXzPk-金古井_18.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                }
+            ],
+            "skuInfoList": [
+                {
+                    "skuSysId": "5948",
+                    "skuId": "1321395361025232897",
+                    "skuName": "50°500ml金古井酒*6",
+                    "spuId": "1321395361025232896",
+                    "skuStatus": 1,
+                    "skuPicUrl": "https://cdn.gj519.com/iO4RrK-金古井-主图1.jpg",
+                    "salePrice": 300,
+                    "linePrice": 499,
+                    "vipPrice": 300,
+                    "barcode": null,
+                    "entCode": null,
+                    "isOnsale": 1,
+                    "createTime": 1603880179000,
+                    "updateTime": 1608200585000,
+                    "salePoint": null,
+                    "actualSales": "1950",
+                    "isMultiSpec": null,
+                    "isRelated": true,
+                    "innerSkuId": "100133106",
+                    "shareDesc": null,
+                    "tagValue": "爆款;抢购;推荐",
+                    "specInfos": [
+                        {
+                            "id": "215236",
+                            "spuId": "1321395361025232896",
+                            "skuId": "1321395361025232897",
+                            "specKey": "15",
+                            "specName": "瓶数",
+                            "specValue": "6瓶装"
+                        }
+                    ],
+                    "itemMediaRespList": [],
+                    "brandInfo": {
+                        "brandId": "10012",
+                        "brandName": "组套商品",
+                        "brandNameEn": "",
+                        "brandCode": "1286159825297870848",
+                        "brandLogo": ""
+                    },
+                    "unit": "1",
+                    "brandName": "组套商品",
+                    "attrInfo": [],
+                    "saleShopId": 428,
+                    "supplierShopId": 426,
+                    "isCustommade": null,
+                    "custommadeDTO": null,
+                    "onsaleStartTime": null,
+                    "onsaleEndTime": null,
+                    "allocatedType": null,
+                    "allocatedTypeName": null,
+                    "cateInfo": null,
+                    "saleCommission": null,
+                    "recommendCommission": null,
+                    "saleCommissionScale": null,
+                    "recommendCommissionScale": null,
+                    "skuStatusName": null,
+                    "isOnsaleName": null,
+                    "innerSkuName": "50°500ml金古井酒*6",
+                    "innerSkuPicUrl": null,
+                    "cateId": "1283281438149578752",
+                    "spuName": null,
+                    "fareType": null,
+                    "minBuyNum": 1,
+                    "maxBuyNum": 9999,
+                    "baseBuyNum": 1,
+                    "isCombine": null,
+                    "combineSkuRespList": null,
+                    "itemShortName": "50°500ml金古井酒*6",
+                    "shopName": null,
+                    "shopLogo": null,
+                    "bargainDefList": null,
+                    "cardList": null,
+                    "grouponInfoList": null,
+                    "promotionList": null,
+                    "packetOffList": null,
+                    "promotionInfoList": null,
+                    "fareTemplate": null,
+                    "vipMemberPrice": null,
+                    "vipMemberInfo": null
+                }
+            ]
+        },
+        {
+            "spuSysId": "2993",
+            "spuId": "1283591020579262464",
+            "spuName": "古井贡酒 年份原浆中国香古20 52度500ml",
+            "spuDesc": "大国浓香 年份原浆",
+            "spuPicUrl": "https://cdn.gj519.com/K14fC0-sZWLMD-Z2.jpg",
+            "spuStatus": 1,
+            "cateId": "1283307074209583104",
+            "brandId": null,
+            "model": null,
+            "unit": "其他",
+            "createTime": 1594866922000,
+            "updateTime": 1608202746000,
+            "saleShopId": 428,
+            "shareDesc": "我发现了一个很棒的东西,快来看看",
+            "fareType": 1,
+            "fareTemplateId": "-1",
+            "minBuyNum": null,
+            "maxBuyNum": null,
+            "tagValue": "明星;推荐",
+            "isOnsale": 1,
+            "virtualSales": "100",
+            "isCustommade": 0,
+            "custommadeDTO": null,
+            "onsaleStartTime": null,
+            "onsaleEndTime": null,
+            "allocatedType": 1,
+            "allocatedTypeName": null,
+            "skuInfoDTOS": null,
+            "minSalePrice": 788,
+            "maxSalePrice": 788,
+            "minLinePrice": 788,
+            "maxLinePrice": 788,
+            "minVipPrice": 788,
+            "maxVipPrice": 788,
+            "minSaleCommission": null,
+            "maxSaleCommission": null,
+            "minRecommendCommission": null,
+            "maxRecommendCommission": null,
+            "minSaleCommissionScale": null,
+            "maxSaleCommissionScale": null,
+            "minRecommendCommissionScale": null,
+            "maxRecommendCommissionScale": null,
+            "salesCount": "43",
+            "fareTemplateName": null,
+            "cateInfo": {
+                "firstCateId": "1283274924785537024",
+                "firstCateName": "年份原浆",
+                "secondCateId": "1283275124593790976",
+                "secondCateName": "原浆标品",
+                "cateId": "1283307074209583104",
+                "cateName": "古20",
+                "cateIds": [
+                    "1283274924785537024",
+                    "1283275124593790976",
+                    "1283307074209583104"
+                ]
+            },
+            "specInfos": null,
+            "itemMediaRespList": [
+                {
+                    "id": "12981",
+                    "spuId": "1283591020579262464",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/K14fC0-sZWLMD-Z2.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12982",
+                    "spuId": "1283591020579262464",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/wjFwTK-Z3.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12983",
+                    "spuId": "1283591020579262464",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/EeCgBu-Z4.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12984",
+                    "spuId": "1283591020579262464",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/ieq7g5-Z5.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12985",
+                    "spuId": "1283591020579262464",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/bWa43y-中国香_古20_42_01.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12986",
+                    "spuId": "1283591020579262464",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/JDY9V0-中国香_古20_42_02.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12987",
+                    "spuId": "1283591020579262464",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/k1WSnI-中国香_古20_42_03.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12988",
+                    "spuId": "1283591020579262464",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/GZXiid-中国香_古20_42_04.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12989",
+                    "spuId": "1283591020579262464",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/fvyqMe-中国香_古20_42_05.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12990",
+                    "spuId": "1283591020579262464",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/7wBozE-中国香_古20_42_06.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12991",
+                    "spuId": "1283591020579262464",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/B6LaRr-中国香_古20_42_07.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "12992",
+                    "spuId": "1283591020579262464",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/M7zVEK-中国香_古20_42_08.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                }
+            ],
+            "skuInfoList": [
+                {
+                    "skuSysId": "5848",
+                    "skuId": "1283652737791299584",
+                    "skuName": "52°500ml*6年份原浆中国香古20",
+                    "spuId": "1283591020579262464",
+                    "skuStatus": 1,
+                    "skuPicUrl": "https://file.gujing.com/group1/M00/EB/EF/CpYSFV9aDEKAbn28AAHKmK9PXhw945.jpg",
+                    "salePrice": 788,
+                    "linePrice": 788,
+                    "vipPrice": 788,
+                    "barcode": null,
+                    "entCode": null,
+                    "isOnsale": 1,
+                    "createTime": 1594881636000,
+                    "updateTime": 1604049077000,
+                    "salePoint": null,
+                    "actualSales": "43",
+                    "isMultiSpec": null,
+                    "isRelated": true,
+                    "innerSkuId": "1000208",
+                    "shareDesc": null,
+                    "tagValue": "明星;推荐",
+                    "specInfos": [
+                        {
+                            "id": "215160",
+                            "spuId": "1283591020579262464",
+                            "skuId": "1283652737791299584",
+                            "specKey": "13",
+                            "specName": "酒精度",
+                            "specValue": "52°"
+                        },
+                        {
+                            "id": "215161",
+                            "spuId": "1283591020579262464",
+                            "skuId": "1283652737791299584",
+                            "specKey": "15",
+                            "specName": "瓶数",
+                            "specValue": "1瓶"
+                        }
+                    ],
+                    "itemMediaRespList": [
+                        {
+                            "id": "25557",
+                            "spuId": null,
+                            "skuId": "1000208",
+                            "mediaUrl": "https://file.gujing.com/group1/M00/EB/EF/CpYSFV9aDEKAbn28AAHKmK9PXhw945.jpg",
+                            "mediaDesc": null,
+                            "mediaType": 2,
+                            "isMaster": true,
+                            "fileType": null,
+                            "seq": null
+                        }
+                    ],
+                    "brandInfo": {
+                        "brandId": "2",
+                        "brandName": "古井贡",
+                        "brandNameEn": null,
+                        "brandCode": "1282887059681447936",
+                        "brandLogo": null
+                    },
+                    "unit": "瓶",
+                    "brandName": "古井贡",
+                    "attrInfo": [
+                        {
+                            "id": "49376",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15837",
+                            "attrName": "产品标准",
+                            "attrNameEn": "prodStan",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49376",
+                                    "attrOptId": null,
+                                    "attrVal": "GB/T 19327（优级）"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49392",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15853",
+                            "attrName": "净含量",
+                            "attrNameEn": "prodNet",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49392",
+                                    "attrOptId": null,
+                                    "attrVal": "500.000"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49379",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15840",
+                            "attrName": "基本计量单位",
+                            "attrNameEn": "prodSalesUnit",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49379",
+                                    "attrOptId": null,
+                                    "attrVal": "瓶"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "69150",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "20262",
+                            "attrName": "商品短名",
+                            "attrNameEn": "itemShortName",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "69150",
+                                    "attrOptId": null,
+                                    "attrVal": "52度500ML中国香古20"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49382",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15843",
+                            "attrName": "商品瓶/盒长宽高尺寸",
+                            "attrNameEn": "itemSize",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49382",
+                                    "attrOptId": null,
+                                    "attrVal": "305*155*118"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49385",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15846",
+                            "attrName": "商品箱体积",
+                            "attrNameEn": "itemBoxVolume",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49385",
+                                    "attrOptId": null,
+                                    "attrVal": "44.055"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49388",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15849",
+                            "attrName": "二维码活动产品",
+                            "attrNameEn": "qrActiName",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49388",
+                                    "attrOptId": null,
+                                    "attrVal": "否"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49375",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15836",
+                            "attrName": "产品规格",
+                            "attrNameEn": "prodSpec",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49375",
+                                    "attrOptId": null,
+                                    "attrVal": "1*6"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49391",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15852",
+                            "attrName": "产品度数",
+                            "attrNameEn": "prodDegree",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49391",
+                                    "attrOptId": null,
+                                    "attrVal": "52"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49378",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15839",
+                            "attrName": "价格含运费",
+                            "attrNameEn": "prodFreeShip",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49378",
+                                    "attrOptId": null,
+                                    "attrVal": "是"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49394",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15855",
+                            "attrName": "盒/瓶重量",
+                            "attrNameEn": "itemWeight",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49394",
+                                    "attrOptId": null,
+                                    "attrVal": "1.630"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49381",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15842",
+                            "attrName": "产品箱条形码",
+                            "attrNameEn": "prodBoxBarCode",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49381",
+                                    "attrOptId": null,
+                                    "attrVal": "6902018778732"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49384",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15845",
+                            "attrName": "商品瓶/盒体积",
+                            "attrNameEn": "itemVolume",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49384",
+                                    "attrOptId": null,
+                                    "attrVal": "5.578"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49387",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15848",
+                            "attrName": "重量单位",
+                            "attrNameEn": "itemTranWeightUnit",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49387",
+                                    "attrOptId": null,
+                                    "attrVal": "KG"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49374",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15835",
+                            "attrName": "容量单位",
+                            "attrNameEn": "prodCopUnit",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49374",
+                                    "attrOptId": null,
+                                    "attrVal": "ML"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49390",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15851",
+                            "attrName": "是否VIP",
+                            "attrNameEn": "whetherVip",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49390",
+                                    "attrOptId": null,
+                                    "attrVal": "否"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49377",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15838",
+                            "attrName": "产品销售类型",
+                            "attrNameEn": "prodSalesType",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49377",
+                                    "attrOptId": null,
+                                    "attrVal": "共用"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49393",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15854",
+                            "attrName": "毛重",
+                            "attrNameEn": "roughWeight",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49393",
+                                    "attrOptId": null,
+                                    "attrVal": "11.070"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49380",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15841",
+                            "attrName": "产品瓶/盒条形码",
+                            "attrNameEn": "prodBarCode",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49380",
+                                    "attrOptId": null,
+                                    "attrVal": "6902018778725"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49383",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15844",
+                            "attrName": "商品箱长宽高尺寸",
+                            "attrNameEn": "itemBoxSize",
+                            "attrType": 1,
+                            "inputType": 5,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49383",
+                                    "attrOptId": null,
+                                    "attrVal": "380*343*338"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49386",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15847",
+                            "attrName": "运输计重",
+                            "attrNameEn": "itemTranWeight",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49386",
+                                    "attrOptId": null,
+                                    "attrVal": "11.070"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49389",
+                            "spuSysId": "5379",
+                            "skuSysId": "9379",
+                            "attrId": "15850",
+                            "attrName": "版本号",
+                            "attrNameEn": "versionNo",
+                            "attrType": 1,
+                            "inputType": 3,
+                            "cateId": "101007001",
+                            "seq": 1,
+                            "attrVals": [
+                                {
+                                    "id": "49389",
+                                    "attrOptId": null,
+                                    "attrVal": "23.8"
+                                }
+                            ]
+                        }
+                    ],
+                    "saleShopId": 428,
+                    "supplierShopId": 426,
+                    "isCustommade": null,
+                    "custommadeDTO": null,
+                    "onsaleStartTime": null,
+                    "onsaleEndTime": null,
+                    "allocatedType": null,
+                    "allocatedTypeName": null,
+                    "cateInfo": null,
+                    "saleCommission": null,
+                    "recommendCommission": null,
+                    "saleCommissionScale": null,
+                    "recommendCommissionScale": null,
+                    "skuStatusName": null,
+                    "isOnsaleName": null,
+                    "innerSkuName": "52°500ml*6年份原浆中国香古20",
+                    "innerSkuPicUrl": "https://file.gujing.com/group1/M00/EB/EF/CpYSFV9aDEKAbn28AAHKmK9PXhw945.jpg",
+                    "cateId": "1283307074209583104",
+                    "spuName": null,
+                    "fareType": null,
+                    "minBuyNum": 1,
+                    "maxBuyNum": 9999,
+                    "baseBuyNum": 1,
+                    "isCombine": null,
+                    "combineSkuRespList": null,
+                    "itemShortName": "52度500ML中国香古20",
+                    "shopName": null,
+                    "shopLogo": null,
+                    "bargainDefList": null,
+                    "cardList": null,
+                    "grouponInfoList": null,
+                    "promotionList": null,
+                    "packetOffList": null,
+                    "promotionInfoList": null,
+                    "fareTemplate": null,
+                    "vipMemberPrice": null,
+                    "vipMemberInfo": null
+                }
+            ]
+        },
+        {
+            "spuSysId": "3062",
+            "spuId": "1339157697920110592",
+            "spuName": "【预售】年份原浆 年三十 牛年生肖版纪念酒 古香型52度500ml（2瓶起售，限购12瓶）",
+            "spuDesc": "此商品为预售商品，将在2021年1月1日后陆续发货",
+            "spuPicUrl": "https://cdn.gj519.com/RTVGw1-微信图片_20201217190407.jpg",
+            "spuStatus": 1,
+            "cateId": "1283280520326811648",
+            "brandId": null,
+            "model": null,
+            "unit": "其他",
+            "createTime": 1608115050000,
+            "updateTime": 1608204288000,
+            "saleShopId": 428,
+            "shareDesc": "我发现了一个很棒的东西,快来看看",
+            "fareType": 1,
+            "fareTemplateId": "-1",
+            "minBuyNum": null,
+            "maxBuyNum": null,
+            "tagValue": "推荐",
+            "isOnsale": 1,
+            "virtualSales": "1",
+            "isCustommade": 0,
+            "custommadeDTO": null,
+            "onsaleStartTime": null,
+            "onsaleEndTime": null,
+            "allocatedType": 1,
+            "allocatedTypeName": null,
+            "skuInfoDTOS": null,
+            "minSalePrice": 1399,
+            "maxSalePrice": 1399,
+            "minLinePrice": 2099,
+            "maxLinePrice": 2099,
+            "minVipPrice": 1399,
+            "maxVipPrice": 1399,
+            "minSaleCommission": null,
+            "maxSaleCommission": null,
+            "minRecommendCommission": null,
+            "maxRecommendCommission": null,
+            "minSaleCommissionScale": null,
+            "maxSaleCommissionScale": null,
+            "minRecommendCommissionScale": null,
+            "maxRecommendCommissionScale": null,
+            "salesCount": "0",
+            "fareTemplateName": null,
+            "cateInfo": {
+                "firstCateId": "1283274924785537024",
+                "firstCateName": "年份原浆",
+                "secondCateId": "1283280520326811648",
+                "secondCateName": "原浆其他",
+                "cateId": null,
+                "cateName": null,
+                "cateIds": [
+                    "1283274924785537024",
+                    "1283280520326811648"
+                ]
+            },
+            "specInfos": null,
+            "itemMediaRespList": [
+                {
+                    "id": "14543",
+                    "spuId": "1339157697920110592",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/RTVGw1-微信图片_20201217190407.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14544",
+                    "spuId": "1339157697920110592",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/xJr4Q6-主图_05.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14545",
+                    "spuId": "1339157697920110592",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/TxQJkF-主图_06png.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": true,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14546",
+                    "spuId": "1339157697920110592",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/THbSKC-年三十详情-修改1_01.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14547",
+                    "spuId": "1339157697920110592",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/ydYEOS-年三十详情-修改1_02.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14548",
+                    "spuId": "1339157697920110592",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/e4EnhT-年三十详情-修改1_03.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14549",
+                    "spuId": "1339157697920110592",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/ZlYBP5-年三十详情-修改1_04.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14550",
+                    "spuId": "1339157697920110592",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/T3hRR9-年三十详情-修改1_05.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14551",
+                    "spuId": "1339157697920110592",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/AzOQxR-年三十详情-修改1_06.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14552",
+                    "spuId": "1339157697920110592",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/irTFjy-年三十详情-修改1_07.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14553",
+                    "spuId": "1339157697920110592",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/i2TPSF-年三十详情-修改1_08.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14554",
+                    "spuId": "1339157697920110592",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/m0biW4-年三十详情-修改1_09.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14555",
+                    "spuId": "1339157697920110592",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/tUDhSu-年三十详情-修改1_10.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                },
+                {
+                    "id": "14556",
+                    "spuId": "1339157697920110592",
+                    "skuId": null,
+                    "mediaUrl": "https://cdn.gj519.com/W9BXMS-年三十详情-修改1_11.jpg",
+                    "mediaDesc": null,
+                    "mediaType": 2,
+                    "isMaster": false,
+                    "fileType": 1,
+                    "seq": null
+                }
+            ],
+            "skuInfoList": [
+                {
+                    "skuSysId": "5956",
+                    "skuId": "1339157697987219456",
+                    "skuName": "52°500mL*6年份原浆年三十生肖版-2021牛年纪念*2（2瓶）",
+                    "spuId": "1339157697920110592",
+                    "skuStatus": 1,
+                    "skuPicUrl": "https://cdn.gj519.com/qxvbXb-微信图片_20201217135620.jpg",
+                    "salePrice": 1399,
+                    "linePrice": 2099,
+                    "vipPrice": 1399,
+                    "barcode": null,
+                    "entCode": null,
+                    "isOnsale": 1,
+                    "createTime": 1608115050000,
+                    "updateTime": 1608204267000,
+                    "salePoint": null,
+                    "actualSales": "0",
+                    "isMultiSpec": null,
+                    "isRelated": true,
+                    "innerSkuId": "1001366",
+                    "shareDesc": null,
+                    "tagValue": "推荐",
+                    "specInfos": [
+                        {
+                            "id": "215291",
+                            "spuId": "1339157697920110592",
+                            "skuId": "1339157697987219456",
+                            "specKey": "15",
+                            "specName": "瓶数",
+                            "specValue": "1瓶"
+                        }
+                    ],
+                    "itemMediaRespList": [
+                        {
+                            "id": "28602",
+                            "spuId": null,
+                            "skuId": "1001366",
+                            "mediaUrl": null,
+                            "mediaDesc": null,
+                            "mediaType": 2,
+                            "isMaster": true,
+                            "fileType": null,
+                            "seq": null
+                        }
+                    ],
+                    "brandInfo": {
+                        "brandId": "2",
+                        "brandName": "古井贡",
+                        "brandNameEn": null,
+                        "brandCode": "1282887059681447936",
+                        "brandLogo": null
+                    },
+                    "unit": "瓶",
+                    "brandName": "古井贡",
+                    "attrInfo": [],
+                    "saleShopId": 428,
+                    "supplierShopId": 426,
+                    "isCustommade": null,
+                    "custommadeDTO": null,
+                    "onsaleStartTime": null,
+                    "onsaleEndTime": null,
+                    "allocatedType": null,
+                    "allocatedTypeName": null,
+                    "cateInfo": null,
+                    "saleCommission": null,
+                    "recommendCommission": null,
+                    "saleCommissionScale": null,
+                    "recommendCommissionScale": null,
+                    "skuStatusName": null,
+                    "isOnsaleName": null,
+                    "innerSkuName": "52°500mL*6年份原浆年三十生肖版-2021牛年纪念",
+                    "innerSkuPicUrl": null,
+                    "cateId": "1283280520326811648",
+                    "spuName": null,
+                    "fareType": null,
+                    "minBuyNum": 1,
+                    "maxBuyNum": 9999,
+                    "baseBuyNum": 1,
+                    "isCombine": null,
+                    "combineSkuRespList": null,
+                    "itemShortName": "52°500mL*6年份原浆年三十生肖版-2021牛年纪念",
+                    "shopName": null,
+                    "shopLogo": null,
+                    "bargainDefList": null,
+                    "cardList": null,
+                    "grouponInfoList": null,
+                    "promotionList": null,
+                    "packetOffList": null,
+                    "promotionInfoList": null,
+                    "fareTemplate": null,
+                    "vipMemberPrice": null,
+                    "vipMemberInfo": null
+                }
+            ]
+        }
+    ],
+    "totalRecord": 68,
+    "hasNext": null
+}
